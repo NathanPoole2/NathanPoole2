@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NathanPoole2
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning C#, html, java, python, Game Development
+- 📫 How to reach me npoole281@gmail.com
